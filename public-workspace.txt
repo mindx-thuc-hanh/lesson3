@@ -1,8 +1,10 @@
-1. Peter sua 500 dong code
+1.0 Alex them 1500 dong code
+1.1. Peter sua 500 dong code
 2. Alex them 1000 dong code
 3. Alex them 1000 dong code
 
-4. Peter them 1000 dong code
+4. Alex them 1000 dong code
 5. Peter them 1000 dong code
 6. Peter them 1000 dong code
-7. Peter them 1000 dong code
+7. Alex them 1000 dong code
+
